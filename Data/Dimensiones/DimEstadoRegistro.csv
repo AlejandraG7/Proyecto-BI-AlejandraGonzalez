@@ -1,0 +1,5 @@
+﻿id_estado,estado_registro,categoria_control
+1,ACTIVE,ACTIVO
+2,ACTIVE,INCOMPLETO
+3,ACTIVE,PROXIMO A VENCER
+4,ACTIVE,VENCIDO
